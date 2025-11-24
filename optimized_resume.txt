@@ -1,0 +1,70 @@
+CONTACT INFORMATION
+
+Email: rashihiregoudar@gmail.com
+Phone: 7975093637
+Location: Fundamentals, UI
+
+SUMMARY
+
+Final-year Computer Science Engineering student passionate about AI-driven development. Skilled in Python, JavaScript, and NLP, with hands-on experience in building intelligent systems like Resume An- alyzers, Quiz Generators, and Blockchain-based ap.
+
+SKILLS
+  - Programming Languages: Programming: Python, Javascript (React, Tools: Python, Javascript
+  - Frameworks & Libraries: Node.Js, Express), Tools: Flask, Flask
+  - Tools & Technologies: Sql, Git, Based Digital Tourist Id System, Secured Digital Tourist Identity Management And Verification System.
+Other Skills: C, Html, Css, Rest Apis, Frameworks, Streamlit, Scikit, Learn, Tensorflow, Pytorch, Nltk, Asterisk, Freertos, Figma, Concepts: Nlp, Ai, Ml Integration, System Automation, Blockchain Fundamentals, Ui, Ux Design, Soft Skills: Analytical Thinking, Problem Solving, Fast Learner, Team Collaboration, Adaptability, Projects, Multi, Granularity Multi, Modal Based Resume Analyzer, Poweredatssystemusingbert, Tf, Idf, Andspacyforscoring, Keywordextraction, Andskill, Gap, Analysis., Nlp, Html Templates, Weasyprint, Cognitive Quiz Generator Application, Generatesclozeandmcqquizzesfromtxt, Docx, Pdffilesusingtf, Idfandnlp, Basedkeyword, Extraction., Pypdf2, Traffic Management System Using Freertos, Simulated Real, Time Traffic Signal Control Using Task Scheduling And Synchronization Primitives In C., Tools: Visual Studio, Blockchain, Developed A Blockchain, Cryptography, Json, Sha, 256, Dtmf, Based Call Forwarding System, Built A Voip, Based Dtmf Call Routing And Reporting Platform Integrating Asterisk Pbx With Microsip, And Zoiper., Tools: Asterisk, Microsip, Zoiper
+
+EDUCATION
+  - Alpha Tech Academy - Ethical Hacking, Web Designing
+  - European Open University - Professional Certificate Program
+  - Infosys - ChatGPT and Zapier Agentic AI for Everyone
+  - Google Cloud Skills Boost - Introduction to Generative AI Studio
+  - Cisco Networking Academy - Introduction to Cybersecurity
+  - Certometer - Full Stack Development Workshop
+  - 1
+
+FULL
+  - Varsha Hiregoudar
+  - +91-7975093637 rashihiregoudar@gmail.com LinkedIn GitHub
+  - Summary
+  - Final-year Computer Science Engineering student passionate about AI-driven development. Skilled in
+  - Python, JavaScript, and NLP, with hands-on experience in building intelligent systems like Resume An-
+  - alyzers, Quiz Generators, and Blockchain-based applications. Strong problem-solving ability, teamwork,
+  - and a keen interest in integrating AI with real-world solutions for impactful innovation.
+  - Education
+  - Bachelor of Engineering: Computer Science and Engineering (Expected 2026)
+  - BMS Institute of Technology and Management, Bengaluru, Karnataka
+  - CGPA: 8.2/10
+  - Skills
+  - Programming: Python, JavaScript (React, Node.js, Express), SQL, C, HTML, CSS, REST APIs
+  - Frameworks/Tools: Flask,Streamlit,Scikit-learn,TensorFlow,PyTorch,NLTK,Asterisk,FreeRTOS,
+  - Figma, Git
+  - Concepts: NLP, AI/ML Integration, System Automation, Blockchain Fundamentals, UI/UX Design
+  - Soft Skills: Analytical Thinking, Problem Solving, Fast Learner, Team Collaboration, Adaptability
+  - Projects
+  - Multi-Granularity Multi-Modal Based Resume Analyzer
+  - AI-poweredATSsystemusingBERT,TF-IDF,andspaCyforscoring, keywordextraction,andskill-gap
+  - analysis.
+  - Tools: Python, NLP, Streamlit/Flask, HTML Templates, WeasyPrint
+  - Cognitive Quiz Generator Application
+  - GeneratesClozeandMCQquizzesfromTXT/DOCX/PDFfilesusingTF-IDFandNLP-basedkeyword
+  - extraction.
+  - Tools: Python, NLTK, Scikit-learn, PyPDF2, Streamlit
+  - Traffic Management System using FreeRTOS
+  - Simulated real-time traffic signal control using task scheduling and synchronization primitives in C.
+  - Tools: Visual Studio, FreeRTOS, C
+  - Blockchain-Based Digital Tourist ID System
+  - Developed a blockchain-secured digital tourist identity management and verification system.
+  - Tools: Python, Cryptography, JSON, SHA-256, Figma
+  - DTMF-Based Call Forwarding System
+  - Built a VoIP-based DTMF call routing and reporting platform integrating Asterisk PBX with MicroSIP
+  - and Zoiper.
+  - Tools: Asterisk, MicroSIP, Zoiper, HTML, CSS, JavaScript
+  - Certifications
+  - Alpha Tech Academy - Ethical Hacking, Web Designing
+  - European Open University - Professional Certificate Program
+  - Infosys - ChatGPT and Zapier Agentic AI for Everyone
+  - Google Cloud Skills Boost - Introduction to Generative AI Studio
+  - Cisco Networking Academy - Introduction to Cybersecurity
+  - Certometer - Full Stack Development Workshop
+  - 1
